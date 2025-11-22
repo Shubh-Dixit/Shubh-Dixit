@@ -78,16 +78,64 @@
 
 
 <div align="center">
+
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
   <img width="10"/>
+
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
   <img width="10"/>
+
+  <!-- PyTorch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
   <img width="10"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="45"/>
   <img width="10"/>
+
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+  <img width="10"/>
+
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+
 </div>
+
 
 ---
 
@@ -122,16 +170,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhdixit&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhdixit&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubh-Dixit&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Dixit&layout=compact&theme=default&hide_border=true" height="160"/>
 </div>
+
 
 ---
 
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhdixit&theme=default&hide_border=true" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=Shubh-Dixit&theme=default&hide_border=true" height="200"/>
 </div>
 
 ---
@@ -139,13 +188,22 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shubh-dixit/">
+
+  <a href="https://www.linkedin.com/in/shubh-dixit/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28"/>
   </a>
-  <a href="mailto:shubhdixit2411@gmail.com">
+
+  <a href="mailto:shubhdixit2411@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
   </a>
+
+  <a href="https://x.com/shubhdixit2411" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white" height="28"/>
+  </a>
+
 </div>
+
+
 
 ---
 
